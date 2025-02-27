@@ -4,7 +4,6 @@
 # SLURM Job Parameters
 ################################################################################
 
-#SBATCH --job-name=${JOB_NAME}         # Job name
 #SBATCH --partition=sandbox            # Partition name
 #SBATCH --time=0-04:00:00              # Format: DD-HH:MM:SS
 #SBATCH --cpus-per-task=1              # Number of CPU cores per task
