@@ -39,6 +39,8 @@ conda activate optoproject
 
 # Change directory to working directory 
 cd ~/BRIDGE_Connection/
+
+# Updating to current data
 git pull
 
 
@@ -56,6 +58,9 @@ python3 compliance.py cantilever
 ################################################################################
 # Post-Processing: Commit and Push Logs to GitHub
 ################################################################################
+
+# Change directory to working directory 
+cd ~/BRIDGE_Connection/
 
 # Make sure we’re on the logs branch (or create it if needed)
 git checkout logs || git checkout -b logs
