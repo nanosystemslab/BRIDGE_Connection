@@ -1,57 +1,65 @@
 #!/bin/bash
 
+################################################################################
+# SLURM Job Parameters
+################################################################################
 
+#SBATCH --job-name=${JOB_NAME}         # Job name
+#SBATCH --partition=sandbox            # Partition name
+#SBATCH --time=0-04:00:00              # Format: DD-HH:MM:SS
+#SBATCH --cpus-per-task=1              # Number of CPU cores per task
+#SBATCH --mem=6400                     # Memory (in MB) per node
 
-## Basic Run info 
+################################################################################
+# Output and Error Files
+################################################################################
+# Use the "%j" token for job ID so each log file is uniquely named.
 
-#SBATCH --job-name=${JOB_NAME}
+#SBATCH --error=~/BRIDGE_Connection/logs/${JOB_NAME}_%j.err
+#SBATCH --output=~/BRIDGE_Connection/logs/${JOB_NAME}_%j.out
 
-#SBATCH --partition=sandbox
-
-#SBATCH --time=0-04:00:00 ## time format is DD-HH:MM:SS
-
-#SBATCH --cpus-per-task=1
-
-#SBATCH --mem=6400 ## max amount of memory per node you require
-
-
-
-## Path to output and error file 
-
-#SBATCH --error=${ERROR_FILE} ## %A - filled with jobid
-
-#SBATCH --output=${OUTPUT_FILE} ## %A - filled with jobid
-
-
-
-## Useful for remote notification
-
-## make sure you update the bottom bits with your email before uncommenting 
+################################################################################
+# Email Notifications (Uncomment & set up correct email if desired)
+################################################################################
 
 #SBATCH --mail-type=BEGIN,END,FAIL,REQUEUE
-
 #SBATCH --mail-user=kp779@hawaii.edu
 
+################################################################################
+# Environment Setup
+################################################################################
 
-
-## initializes the fenicsproject env
-
+# Load your shell config (if needed) and activate conda environment
 source ~/.zshrc
-
 conda activate optoproject
 
+################################################################################
+# Main Execution
+################################################################################
 
+# Change directory to where your Python script is located
+cd ~/BRIDGE_Connection/src/BRIDGE_Connection
 
-## Basic run with defaults:
-
-## Can run with sbatch level_set_op.slurm
-
-##python3 mechanism_kp.py inverter
-
-cd ~/BRIDGE_Connection/src/BRIDGE_Connection 
-
+# Run the script
 python3 compliance.py cantilever
 
-##Run FEniCS simulations with custom parameters.
 
+################################################################################
+# Post-Processing: Commit and Push Logs to GitHub
+################################################################################
 
+# Make sure we’re on the logs branch (or create it if needed)
+git checkout logs || git checkout -b logs
+
+# Copy any newly created log files into a subfolder or keep them in logs/
+# For example, if your logs are already in `~/BRIDGE_Connection/logs`,
+# you can just commit them directly:
+git add logs/${JOB_NAME}_${SLURM_JOB_ID}.*
+
+# Commit changes (use a helpful commit message)
+git commit -m "Add logs for job ${SLURM_JOB_ID} (${JOB_NAME})"
+
+# Push to remote (assumes SSH setup or a saved credential)
+git push origin logs
+
+echo "Logs pushed to 'logs' branch on GitHub."
