@@ -161,7 +161,7 @@ def _main():
                 ax.set_title(f'Contour Plot at Iteration {It}')
 
                 # Save the figure before showing it
-                pp.savefig(f'output_iteration_{It}.pdf', bbox_inches='tight')
+                pp.savefig(f'../../OUT/output_iteration_{It}.pdf', bbox_inches='tight')
 
             #if np.mod(It,10)==0 or It==1 or It==ItMax or stop==True:   
             #    # pp.close()     
