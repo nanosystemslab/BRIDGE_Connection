@@ -1,4 +1,4 @@
-x xz!/bin/bash
+#!/bin/bash
 
 
 
@@ -48,7 +48,7 @@ conda activate optoproject
 
 ##python3 mechanism_kp.py inverter
 
-cd ~/BRIDGE_Connection/src/BRIDGE_Connection 
+cd /home/kp779/BRIDGE_Connection/src/BRIDGE_Connection 
 
 python3 compliance.py cantilever
 
