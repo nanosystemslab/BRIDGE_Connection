@@ -14,8 +14,8 @@
 ################################################################################
 # Use the "%j" token for job ID so each log file is uniquely named.
 
-#SBATCH --error=~/BRIDGE_Connection/logs/${JOB_NAME}_%j.err
-#SBATCH --output=~/BRIDGE_Connection/logs/${JOB_NAME}_%j.out
+#SBATCH --error=logs/job_logs_%x.err
+#SBATCH --output=logs/job_logs_%x.out
 
 ################################################################################
 # Email Notifications (Uncomment & set up correct email if desired)
@@ -27,6 +27,9 @@
 ################################################################################
 # Environment Setup
 ################################################################################
+
+# Declar session for logging
+echo "This job name is $SLURM_JOB_NAME $SLURM_JOB_ID"
 
 # Load your shell config (if needed) and activate conda environment
 source ~/.zshrc
@@ -66,12 +69,10 @@ cd ~/BRIDGE_Connection/
 git checkout logs || git checkout -b logs
 
 # Copy any newly created log files into a subfolder or keep them in logs/
-# For example, if your logs are already in `~/BRIDGE_Connection/logs`,
-# you can just commit them directly:
-git add logs/${JOB_NAME}_${SLURM_JOB_ID}.*
+git add logs/job_logs_${SLURM_JOB_NAME}.*
 
 # Commit changes (use a helpful commit message)
-git commit -m "Add logs for job ${SLURM_JOB_ID} (${JOB_NAME})"
+git commit -m "Add logs for job ${SLURM_JOB_NAME} ${SLURM_JOB_ID}"
 
 # Push to remote (assumes SSH setup or a saved credential)
 git push origin logs

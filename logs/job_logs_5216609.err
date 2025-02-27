@@ -9,3 +9,9 @@ If you wish to set tracking information for this branch you can do so with:
     git branch --set-upstream-to=origin/<branch> logs
 
 Already on 'logs'
+remote: 
+remote: GitHub found 4 vulnerabilities on nanosystemslab/BRIDGE_Connection's default branch (1 high, 2 moderate, 1 low). To find out more, visit:        
+remote:      https://github.com/nanosystemslab/BRIDGE_Connection/security/dependabot        
+remote: 
+To github.com:nanosystemslab/BRIDGE_Connection.git
+   1115ddd..1c46b5e  logs -> logs

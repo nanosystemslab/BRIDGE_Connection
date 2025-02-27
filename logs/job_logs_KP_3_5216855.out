@@ -8,3 +8,21 @@ M	logs/job_logs_5216485.out
 M	logs/job_logs_5216609.err
 M	logs/job_logs_5216609.out
 M	src/BRIDGE_Connection/levelset.slurm
+[logs 28108ca] Add logs for job KP_3 5216855
+ Committer: Kirsten Peterson <kp779@cn-03-13-01.mana.ci.its.hawaii.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+)
+ create mode 100644 logs/job_logs_KP_3_5216855.err
+ create mode 100644 logs/job_logs_KP_3_5216855.out
+Logs pushed to 'logs' branch on GitHub.
