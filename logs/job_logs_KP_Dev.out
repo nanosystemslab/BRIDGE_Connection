@@ -1,4 +1,4 @@
-This job name is KP_Dev 5217062
+This job name is KP_Dev 5220988
 Already up to date.
 #PETSc Option Table entries:
 -pc_factor_reuse_fill true # (source: code)
@@ -460,4 +460,6 @@ WARNING! could be spelling mistake, etc!
 There are 2 unused database options. They are:
 Option left: name:-pc_factor_reuse_fill value: true source: code
 Option left: name:-pc_factor_reuse_ordering value: true source: code
+M	logs/job_logs_KP_Dev.err
+M	logs/job_logs_KP_Dev.out
 Your branch is up to date with 'origin/logs'.
