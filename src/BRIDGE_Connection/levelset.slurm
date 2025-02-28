@@ -45,7 +45,7 @@ cd ~/BRIDGE_Connection/
 
 # Updating to current data
 git pull
-
+git checkout dev
 
 ################################################################################
 # Main Execution
