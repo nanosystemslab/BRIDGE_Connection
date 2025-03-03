@@ -55,7 +55,7 @@ git checkout dev
 cd ~/BRIDGE_Connection/src/BRIDGE_Connection
 
 # Run the script
-python3 compliance.py cantilever
+python3 compliance.py cantilever_asymmetric
 
 
 ################################################################################
