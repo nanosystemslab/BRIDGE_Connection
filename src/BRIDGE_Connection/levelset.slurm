@@ -62,4 +62,4 @@ git commit -m "Add logs for job ${SLURM_JOB_ID} (${JOB_NAME})"
 # Push to remote (assumes SSH setup or a saved credential)
 git push origin logs
 
-echo "Logs pushed to 'logs' branch on GitHub."
+echo "Logs pushed to 'logs' branch on GitHub..."
