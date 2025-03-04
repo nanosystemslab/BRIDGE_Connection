@@ -7,7 +7,7 @@ def init(Name):
     if Name == 'cantilever':
         Lag,Nx,Ny = [40.0,150,75]
     if Name == 'cantilever_asymmetric':    
-        Lag,Nx,Ny = [70.0,202,101]  
+        Lag,Nx,Ny = [80.0,150,75]  
     if Name == 'half_wheel':        
         Lag,Nx,Ny = [50.0,200,100]
     if Name == 'bridge':        
@@ -20,21 +20,29 @@ def init(Name):
         Lag,Nx,Ny = [0.01,350,175]
                                    
     if Name == 'cantilever' or Name == 'cantilever_asymmetric':    
-        lx,ly = [2.0,1.0]    
-        XX,YY = np.meshgrid(np.linspace(0.0,lx,Nx+1),np.linspace(0.0,ly,Ny+1))   
+        lx,ly = [4.0,1.0]    
+        XX,YY = np.meshgrid(np.linspace(0.0,lx,Nx+1),np.linspace(0.0,ly,Ny+1))
+        YY -= 0.25 ##shift the pattern by 0.25 units
         #define boundary conditions
         mesh  = RectangleMesh(Point(0.0,0.0),Point(lx,ly),Nx,Ny,'crossed') 
         Vvec = VectorFunctionSpace(mesh, 'CG', 1)         
-        class DirBd(SubDomain):
+        class DirBdX(SubDomain):
             def inside(self, x, on_boundary):
-                return near(x[0],.0)      
-        dirBd = DirBd()
+                return near(x[0],0.0) 
+        class DirBdY(SubDomain):
+            def inside(self, x, on_boundary):
+                return near(x[0], 0,0) and (0.0 <= x[1] <=0.4)
+        dirBdX = DirBdX()
+        dirBdY = DirBdY()
         #boundaries = FacetFunction("size_t", mesh)   
         boundaries = MeshFunction("size_t", mesh, mesh.topology().dim()-1, 0)
         boundaries.set_all(0)    
-        dirBd.mark(boundaries, 1)
-        ds = Measure("ds")(subdomain_data=boundaries)  
-        bcd  = [DirichletBC(Vvec, (0.0,0.0), boundaries, 1)]          
+        dirBdX.mark(boundaries, 1)
+        dirBdY.mark(boundaries, 2)
+        ds = Measure("ds")(subdomain_data=boundaries) 
+        zero_x = Constant((0.0, None))
+        zero_y = Constant((None, 0.0))
+        bcd  = [DircichletBC(Vvec.sub(0), zero_x, boundaries, 1), DirichletBC(Vvec.sub(1),zero_y, boundaries, 2)
             
     if Name == 'cantilever':
         ####################
@@ -45,7 +53,7 @@ def init(Name):
         #phi_mat = -np.cos(8.0/lx*pi*XX) * np.cos(4.0*pi*YY) - 0.4\
         # + np.maximum(200.0*(0.01-XX**2-(YY-ly/2)**2),.0)\
         # + np.maximum(100.0*(XX+YY-lx-ly+0.1),.0) + np.maximum(100.0*(XX-YY-lx+0.1),.0)    
-        phi_mat = -np.cos(6.0/lx*pi*XX) * np.cos(4.0*pi*YY) - 0.6\
+        phi_mat = -np.cos(3.0/lx*pi*XX) * np.cos(2.0*pi*YY) - 0.6\
          + np.maximum(200.0*(0.01-XX**2-(YY-ly/2)**2),.0)\
          + np.maximum(100.0*(XX+YY-lx-ly+0.1),.0) + np.maximum(100.0*(XX-YY-lx+0.1),.0)                  
                  
@@ -53,7 +61,7 @@ def init(Name):
         ##########################
         # Asymmetric cantilever
         ##########################      
-        Load = [Point(lx, 0.0)]   
+        Load = [Point(lx, 0.75)]   
         # Initialize level set function        
         phi_mat = -np.cos(6.0/lx*pi*XX) * np.cos(4.0*pi*YY) - 0.4\
           + np.maximum(100.0*(XX+YY-lx-ly+0.1),.0)         
