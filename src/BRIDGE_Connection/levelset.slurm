@@ -52,7 +52,7 @@ git pull
 cd ~/BRIDGE_Connection/src/BRIDGE_Connection
 
 # Run the script
-python3 compliance.py cantilever
+python3 compliance.py cantilever ${SLURM_JOB_ID}
 
 
 ################################################################################
