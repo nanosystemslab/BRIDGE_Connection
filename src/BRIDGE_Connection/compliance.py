@@ -14,6 +14,9 @@ from dolfin import PETScLUSolver
 
 # ----------------------------------------------------------------------
 def _main():
+    # Job number
+    job_number = sys.argv[2]
+
     Lag,Nx,Ny,lx,ly,Load,Name,ds,bcd,mesh,phi_mat,Vvec=init(sys.argv[1])      
     eps_er, E, nu = [0.001, 1.0, 0.3]  # Elasticity parameters
     mu,lmbda = Constant(E/(2*(1 + nu))),Constant(E*nu/((1+nu)*(1-2*nu)))
@@ -161,7 +164,7 @@ def _main():
                 ax.set_title(f'Contour Plot at Iteration {It}')
 
                 # Save the figure before showing it
-                pp.savefig(f'../../OUT/output_iteration_{It}.pdf', bbox_inches='tight')
+                pp.savefig(f'../../OUT/output_{job_number}_iteration_{It}.pdf', bbox_inches='tight')
 
             #if np.mod(It,10)==0 or It==1 or It==ItMax or stop==True:   
             #    # pp.close()     
