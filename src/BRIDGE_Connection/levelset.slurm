@@ -53,7 +53,8 @@ git checkout dev
 cd ~/BRIDGE_Connection/src/BRIDGE_Connection
 
 # Run the script
-python3 compliance.py cantilever ${SLURM_JOB_ID}
+# python3 compliance.py cantilever ${SLURM_JOB_ID}
+python3 compliance.py half_wheel ${SLURM_JOB_ID}
 
 
 ################################################################################
