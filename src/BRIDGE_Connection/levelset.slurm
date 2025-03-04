@@ -14,8 +14,8 @@
 ################################################################################
 # Use the "%j" token for job ID so each log file is uniquely named.
 
-#SBATCH --error=~/BRIDGE_Connection/logs/${JOB_NAME}_%j.err
-#SBATCH --output=~/BRIDGE_Connection/logs/${JOB_NAME}_%j.out
+#SBATCH --error=./logs/%x_%j.err
+#SBATCH --output=./logs/%x_%j.out
 
 ################################################################################
 # Email Notifications (Uncomment & set up correct email if desired)
@@ -57,7 +57,7 @@ cd ~/BRIDGE_Connection/src/BRIDGE_Connection
 # python3 compliance.py cantilever ${SLURM_JOB_ID}
 
 echo "Running half_wheel"
-python3 compliance.py half_wheel ${SLURM_JOB_ID}
+# python3 compliance.py half_wheel ${SLURM_JOB_ID}
 
 
 ################################################################################
