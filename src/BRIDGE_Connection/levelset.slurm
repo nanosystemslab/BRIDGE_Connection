@@ -47,6 +47,7 @@ cd ~/BRIDGE_Connection/
 git pull
 git checkout dev
 
+
 ################################################################################
 # Main Execution
 ################################################################################
@@ -56,7 +57,9 @@ cd ~/BRIDGE_Connection/src/BRIDGE_Connection
 
 # Run the script
 
+
 python3 compliance.py cantilever ${SLURM_JOB_ID}
+
 
 
 
@@ -79,4 +82,4 @@ git commit -m "Add logs for job ${SLURM_JOB_NAME} ${SLURM_JOB_ID}"
 # Push to remote (assumes SSH setup or a saved credential)
 git push origin logs
 
-echo "Logs pushed to 'logs' branch on GitHub."
+echo "Logs pushed to 'logs' branch on GitHub..."
