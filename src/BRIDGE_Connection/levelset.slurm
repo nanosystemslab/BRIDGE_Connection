@@ -71,7 +71,7 @@ python3 compliance.py cantilever ${SLURM_JOB_ID}
 cd ~/BRIDGE_Connection/
 
 # Make sure we’re on the logs branch (or create it if needed)
-git checkout logs || git checkout -b logs
+#git checkout logs || git checkout -b logs
 
 # Copy any newly created log files into a subfolder or keep them in logs/
 git add logs/job_logs_${SLURM_JOB_NAME}.*
@@ -80,6 +80,6 @@ git add logs/job_logs_${SLURM_JOB_NAME}.*
 git commit -m "Add logs for job ${SLURM_JOB_NAME} ${SLURM_JOB_ID}"
 
 # Push to remote (assumes SSH setup or a saved credential)
-git push origin logs
+git push origin dev
 
 echo "Logs pushed to 'logs' branch on GitHub..."
