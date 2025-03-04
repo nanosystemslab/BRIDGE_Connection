@@ -4,7 +4,6 @@
 # SLURM Job Parameters
 ################################################################################
 
-#SBATCH --job-name=${JOB_NAME}         # Job name
 #SBATCH --partition=sandbox            # Partition name
 #SBATCH --time=0-04:00:00              # Format: DD-HH:MM:SS
 #SBATCH --cpus-per-task=1              # Number of CPU cores per task
@@ -34,6 +33,18 @@ source ~/.zshrc
 conda activate optoproject
 
 ################################################################################
+# Pre-Processing: Pull latest GitHub
+################################################################################
+
+
+# Change directory to working directory 
+cd ~/BRIDGE_Connection/
+
+# Updating to current data
+git pull
+
+
+################################################################################
 # Main Execution
 ################################################################################
 
@@ -41,12 +52,15 @@ conda activate optoproject
 cd ~/BRIDGE_Connection/src/BRIDGE_Connection
 
 # Run the script
-python3 compliance.py cantilever
+python3 compliance.py cantilever ${SLURM_JOB_ID}
 
 
 ################################################################################
 # Post-Processing: Commit and Push Logs to GitHub
 ################################################################################
+
+# Change directory to working directory 
+cd ~/BRIDGE_Connection/
 
 # Make sure we’re on the logs branch (or create it if needed)
 git checkout logs || git checkout -b logs
