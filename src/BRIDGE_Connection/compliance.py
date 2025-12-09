@@ -11,13 +11,19 @@ pp.switch_backend('Agg')
 #set_log_level(ERROR)
 from petsc4py import PETSc
 from dolfin import PETScLUSolver
-
+from dolfin import Constant
+import ufl
+from dolfin import Function, Constant, as_vector, assemble, inner, grad, sym, div, TrialFunction, TestFunction, PETScLUSolver
 # ----------------------------------------------------------------------
 def _main():
+    if len(sys.argv) < 3:
+        print("Usage: python compliance.py <Name> <JobNumber>")
+        sys.exit(1)
     # Job number
     job_number = sys.argv[2]
 
-    Lag,Nx,Ny,lx,ly,Load,Name,ds,bcd,mesh,phi_mat,Vvec=init(sys.argv[1])      
+   
+    Lag,Nx,Ny,lx,ly,Load,Name,ds,bcd,mesh,phi_mat,Vvec=init(sys.argv[1])
     eps_er, E, nu = [0.001, 1.0, 0.3]  # Elasticity parameters
     mu,lmbda = Constant(E/(2*(1 + nu))),Constant(E*nu/((1+nu)*(1-2*nu)))
     # Create folder for saving files
@@ -177,13 +183,45 @@ def _main():
 # ----------------------------------------------------------------------
 def _solve_pde(V, dx, ds, eps_er, bcd, mu, lmbda, Load):
     u,v = [TrialFunction(V), TestFunction(V)]
-    S1 = 2.0*mu*inner(sym(grad(u)),sym(grad(v))) + lmbda*div(u)*div(v)
-    A = assemble( S1*eps_er*dx(0) + S1*dx(1) )   
-    b = assemble( inner(Expression(('0.0', '0.0'),degree=2) ,v) * ds(2))    
+    S1 = 1.0*mu*inner(sym(grad(u)),sym(grad(v))) + lmbda*div(u)*div(v)
+    A = assemble( S1*eps_er*dx(0) + S1*dx(1) )  
+    print(f"Load type before processing: {type(Load)}")
+
+    try:
+        # Check if Load is an Indexed UFL object
+        if isinstance(Load, ufl.indexed.Indexed):
+            # Extract the underlying function or coefficient
+            Load = Load.ufl_operands[0]  # Assuming this is the correct way to extract
+            print(f"Extracted Load: {Load}")
+        elif isinstance(Load, ufl.Coefficient):
+            pass  # It's already a valid coefficient
+        elif isinstance(Load, (tuple, list)):
+            Load = as_vector(Load)
+        elif isinstance(Load, Function):
+            pass  # Already a valid function
+        elif isinstance(Load, (int, float)):
+            Load = Constant(Load)  # Convert numerical value to constant
+        else:
+            raise TypeError(f"Unsupported Load type: {type(Load)}")
+
+    except Exception as e:
+        raise TypeError(f"Error processing Load: {e}")
+
+    print(f"Processed Load: {Load}")
+
+
+
+    # Apply the Load in a more robust way
+    b = assemble(inner(Load, v) * ds(2))  # Edge load applied
+
+    #b = assemble(inner(Load, v) * ds(2))  # <-- Edge load applied here
+    for bc in bcd:
+        bc.apply(A, b)
+   #  #b = assemble( inner(Expression(('0.0', '0.0'),degree=2) ,v) * ds(2))    
     U = Function(V)
-    delta = PointSource(V.sub(1), Load, -1.0)
-    delta.apply(b) 
-    for bc in bcd: bc.apply(A,b)    
+   # #delta = PointSource(V.sub(1), Load, -1.0)
+   # #delta.apply(b) 
+   # #for bc in bcd: bc.apply(A,b)    
     # Create an empty PETScMatrix
     #petsc_A = PETScMatrix()
     #solverA = PETScLUSolver(petsc_A(A,b))

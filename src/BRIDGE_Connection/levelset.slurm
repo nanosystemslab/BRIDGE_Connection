@@ -41,8 +41,8 @@ conda activate optoproject
 cd ~/BRIDGE_Connection/
 
 # Updating to current data
-git pull
-git checkout dev
+# git pull
+# git checkout dev
 
 
 ################################################################################
@@ -53,12 +53,17 @@ git checkout dev
 cd ~/BRIDGE_Connection/src/BRIDGE_Connection
 
 # Run the script
-# echo "Running cantilever"
-# python3 compliance.py cantilever ${SLURM_JOB_ID}
+#echo "Running cantilever"
+#python3 compliance.py cantilever ${SLURM_JOB_ID}
 
-echo "Running half_wheel"
-# python3 compliance.py half_wheel ${SLURM_JOB_ID}
+#echo "Running half_wheel"
+#python3 compliance.py half_wheel ${SLURM_JOB_ID}
 
+#python3 compliance.py bridge ${SLURM_JOB_ID}
+
+#python3 compliance.py cantilever_twoforces ${SLURM_JOB_ID}
+
+python3 compliance.py cantilever ${SLURM_JOB_ID}
 
 ################################################################################
 # Post-Processing: Commit and Push Logs to GitHub
@@ -68,17 +73,17 @@ echo "Running half_wheel"
 cd ~/BRIDGE_Connection/
 
 # Make sure we’re on the logs branch (or create it if needed)
-git checkout logs || git checkout -b logs
+#git checkout logs || git checkout -b logs
 
 # Copy any newly created log files into a subfolder or keep them in logs/
 # For example, if your logs are already in `~/BRIDGE_Connection/logs`,
 # you can just commit them directly:
-git add logs/${JOB_NAME}_${SLURM_JOB_ID}.*
+# git add logs/${JOB_NAME}_${SLURM_JOB_ID}.*
 
 # Commit changes (use a helpful commit message)
-git commit -m "Add logs for job ${SLURM_JOB_ID} (${JOB_NAME})"
+# git commit -m "Add logs for job ${SLURM_JOB_ID} (${JOB_NAME})"
 
 # Push to remote (assumes SSH setup or a saved credential)
-git push origin logs
+# git push origin logs
 
-echo "Logs pushed to 'logs' branch on GitHub..."
+# echo "Logs pushed to 'logs' branch on GitHub..."

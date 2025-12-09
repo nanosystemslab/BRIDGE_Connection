@@ -1,0 +1,50 @@
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:153: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  fig, ax = pp.subplots()
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))
+/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py:156: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  contour = ax.contourf(phi_mat, levels=[-10.0, 0.0], extent=[0.0, lx, 0.0, ly], cmap=cm.get_cmap('bone'))

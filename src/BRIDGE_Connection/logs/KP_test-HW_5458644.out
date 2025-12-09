@@ -1,0 +1,5636 @@
+#PETSc Option Table entries:
+-pc_factor_reuse_fill true # (source: code)
+-pc_factor_reuse_ordering true # (source: code)
+#End of PETSc Option Table entries
+Load assigned: f_8
+init() returning 12 values.
+Factor reuse options are not available in this PETSc version.
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 0
+Function value        : 78343.07
+Compliance            : 78342.77
+Volume fraction       : 0.75
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 1
+Function value        : 60922.31
+Compliance            : 60921.99
+Volume fraction       : 0.79
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 2
+Function value        : 56923.72
+Compliance            : 56923.40
+Volume fraction       : 0.81
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 3
+Function value        : 55473.44
+Compliance            : 55473.11
+Volume fraction       : 0.82
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 4
+Function value        : 54607.13
+Compliance            : 54606.80
+Volume fraction       : 0.83
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 5
+Function value        : 54272.23
+Compliance            : 54271.90
+Volume fraction       : 0.84
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 6
+Function value        : 52648.55
+Compliance            : 52648.21
+Volume fraction       : 0.85
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 7
+Function value        : 52533.76
+Compliance            : 52533.42
+Volume fraction       : 0.86
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 8
+Function value        : 52524.12
+Compliance            : 52523.78
+Volume fraction       : 0.86
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 9
+Function value        : 52673.95
+Compliance            : 52673.60
+Volume fraction       : 0.86
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 10
+Function value        : 50898.57
+Compliance            : 50898.22
+Volume fraction       : 0.87
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 11
+Function value        : 49996.93
+Compliance            : 49996.59
+Volume fraction       : 0.87
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 12
+Function value        : 50162.91
+Compliance            : 50162.56
+Volume fraction       : 0.87
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 13
+Function value        : 49948.49
+Compliance            : 49948.14
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 14
+Function value        : 50863.64
+Compliance            : 50863.29
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 15
+Function value        : 50248.62
+Compliance            : 50248.27
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 16
+Function value        : 49621.28
+Compliance            : 49620.93
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 17
+Function value        : 50185.78
+Compliance            : 50185.43
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 18
+Function value        : 50411.69
+Compliance            : 50411.34
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 19
+Function value        : 50630.00
+Compliance            : 50629.65
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 20
+Function value        : 50642.92
+Compliance            : 50642.57
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 21
+Function value        : 50799.09
+Compliance            : 50798.73
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 22
+Function value        : 50796.18
+Compliance            : 50795.83
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 23
+Function value        : 50988.30
+Compliance            : 50987.94
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 24
+Function value        : 50928.63
+Compliance            : 50928.27
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 25
+Function value        : 51123.69
+Compliance            : 51123.33
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 26
+Function value        : 51431.31
+Compliance            : 51430.96
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 27
+Function value        : 50843.99
+Compliance            : 50843.64
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 28
+Function value        : 50838.02
+Compliance            : 50837.66
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 29
+Function value        : 51104.83
+Compliance            : 51104.47
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 30
+Function value        : 51100.57
+Compliance            : 51100.22
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 31
+Function value        : 51107.37
+Compliance            : 51107.01
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 32
+Function value        : 51315.68
+Compliance            : 51315.33
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 33
+Function value        : 51344.53
+Compliance            : 51344.17
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 34
+Function value        : 51334.32
+Compliance            : 51333.97
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 35
+Function value        : 51500.55
+Compliance            : 51500.19
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 36
+Function value        : 51546.79
+Compliance            : 51546.43
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 37
+Function value        : 51514.38
+Compliance            : 51514.02
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 38
+Function value        : 51536.60
+Compliance            : 51536.24
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 39
+Function value        : 51716.83
+Compliance            : 51716.48
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 40
+Function value        : 51710.78
+Compliance            : 51710.43
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 41
+Function value        : 51731.46
+Compliance            : 51731.10
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 42
+Function value        : 51724.24
+Compliance            : 51723.88
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 43
+Function value        : 51778.54
+Compliance            : 51778.19
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 44
+Function value        : 51802.14
+Compliance            : 51801.78
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 45
+Function value        : 51799.84
+Compliance            : 51799.48
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 46
+Function value        : 51950.64
+Compliance            : 51950.28
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 47
+Function value        : 51982.24
+Compliance            : 51981.88
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 48
+Function value        : 51970.72
+Compliance            : 51970.36
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 49
+Function value        : 51985.54
+Compliance            : 51985.18
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 50
+Function value        : 51966.36
+Compliance            : 51966.00
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 51
+Function value        : 51965.41
+Compliance            : 51965.05
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 52
+Function value        : 52156.72
+Compliance            : 52156.36
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 53
+Function value        : 52158.36
+Compliance            : 52158.00
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 54
+Function value        : 52167.48
+Compliance            : 52167.12
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 55
+Function value        : 52177.94
+Compliance            : 52177.58
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 56
+Function value        : 52182.24
+Compliance            : 52181.88
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 57
+Function value        : 52198.00
+Compliance            : 52197.64
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 58
+Function value        : 52187.26
+Compliance            : 52186.91
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 59
+Function value        : 52206.18
+Compliance            : 52205.82
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 60
+Function value        : 52380.65
+Compliance            : 52380.30
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 61
+Function value        : 52383.87
+Compliance            : 52383.51
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 62
+Function value        : 52381.70
+Compliance            : 52381.34
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 63
+Function value        : 51703.22
+Compliance            : 51702.86
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 64
+Function value        : 51314.44
+Compliance            : 51314.08
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 65
+Function value        : 51363.75
+Compliance            : 51363.39
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 66
+Function value        : 51381.86
+Compliance            : 51381.50
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 67
+Function value        : 51544.29
+Compliance            : 51543.94
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 68
+Function value        : 51547.03
+Compliance            : 51546.68
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 69
+Function value        : 51596.48
+Compliance            : 51596.12
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 70
+Function value        : 51594.77
+Compliance            : 51594.41
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 71
+Function value        : 51591.52
+Compliance            : 51591.17
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 72
+Function value        : 51594.87
+Compliance            : 51594.52
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 73
+Function value        : 51582.73
+Compliance            : 51582.37
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 74
+Function value        : 51466.78
+Compliance            : 51466.42
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 75
+Function value        : 51471.99
+Compliance            : 51471.63
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 76
+Function value        : 51478.84
+Compliance            : 51478.48
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 77
+Function value        : 51636.88
+Compliance            : 51636.52
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 78
+Function value        : 51653.33
+Compliance            : 51652.97
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 79
+Function value        : 51716.94
+Compliance            : 51716.58
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 80
+Function value        : 51731.11
+Compliance            : 51730.75
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 81
+Function value        : 51710.08
+Compliance            : 51709.72
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 82
+Function value        : 51539.29
+Compliance            : 51538.94
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 83
+Function value        : 51536.79
+Compliance            : 51536.43
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 84
+Function value        : 51579.48
+Compliance            : 51579.12
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 85
+Function value        : 51559.78
+Compliance            : 51559.42
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 86
+Function value        : 51582.67
+Compliance            : 51582.31
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 87
+Function value        : 51605.00
+Compliance            : 51604.65
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 88
+Function value        : 51611.95
+Compliance            : 51611.60
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 89
+Function value        : 51632.27
+Compliance            : 51631.91
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 90
+Function value        : 51630.36
+Compliance            : 51630.00
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 91
+Function value        : 51654.11
+Compliance            : 51653.75
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 92
+Function value        : 51481.48
+Compliance            : 51481.12
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 93
+Function value        : 51642.11
+Compliance            : 51641.75
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 94
+Function value        : 51624.10
+Compliance            : 51623.74
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 95
+Function value        : 51679.44
+Compliance            : 51679.09
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 96
+Function value        : 51679.43
+Compliance            : 51679.08
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 97
+Function value        : 51686.40
+Compliance            : 51686.05
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 98
+Function value        : 51550.43
+Compliance            : 51550.07
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 99
+Function value        : 51714.82
+Compliance            : 51714.46
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 100
+Function value        : 51717.86
+Compliance            : 51717.50
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 101
+Function value        : 51721.25
+Compliance            : 51720.90
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 102
+Function value        : 51728.75
+Compliance            : 51728.39
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 103
+Function value        : 52017.90
+Compliance            : 52017.54
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 104
+Function value        : 52017.82
+Compliance            : 52017.46
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 105
+Function value        : 51865.39
+Compliance            : 51865.03
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 106
+Function value        : 51939.22
+Compliance            : 51938.86
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 107
+Function value        : 51931.40
+Compliance            : 51931.05
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 108
+Function value        : 51955.91
+Compliance            : 51955.55
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 109
+Function value        : 51793.45
+Compliance            : 51793.09
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 110
+Function value        : 51795.01
+Compliance            : 51794.65
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 111
+Function value        : 51795.32
+Compliance            : 51794.96
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 112
+Function value        : 51797.53
+Compliance            : 51797.17
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 113
+Function value        : 51810.72
+Compliance            : 51810.36
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 114
+Function value        : 51809.90
+Compliance            : 51809.55
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 115
+Function value        : 51635.97
+Compliance            : 51635.61
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 116
+Function value        : 51637.05
+Compliance            : 51636.70
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 117
+Function value        : 51640.12
+Compliance            : 51639.77
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 118
+Function value        : 51706.60
+Compliance            : 51706.24
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 119
+Function value        : 51705.70
+Compliance            : 51705.35
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 120
+Function value        : 51716.23
+Compliance            : 51715.87
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 121
+Function value        : 51761.21
+Compliance            : 51760.85
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 122
+Function value        : 51552.59
+Compliance            : 51552.23
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 123
+Function value        : 51561.10
+Compliance            : 51560.74
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 124
+Function value        : 51734.09
+Compliance            : 51733.73
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 125
+Function value        : 51735.25
+Compliance            : 51734.89
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 126
+Function value        : 51747.37
+Compliance            : 51747.01
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 127
+Function value        : 51723.56
+Compliance            : 51723.20
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 128
+Function value        : 51555.67
+Compliance            : 51555.31
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 129
+Function value        : 51579.76
+Compliance            : 51579.41
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 130
+Function value        : 51648.49
+Compliance            : 51648.13
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 131
+Function value        : 51638.90
+Compliance            : 51638.54
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 132
+Function value        : 51511.07
+Compliance            : 51510.71
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 133
+Function value        : 51511.11
+Compliance            : 51510.76
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 134
+Function value        : 51521.70
+Compliance            : 51521.34
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 135
+Function value        : 51702.12
+Compliance            : 51701.76
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 136
+Function value        : 51709.69
+Compliance            : 51709.34
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 137
+Function value        : 51709.06
+Compliance            : 51708.71
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 138
+Function value        : 51526.83
+Compliance            : 51526.48
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 139
+Function value        : 51525.65
+Compliance            : 51525.30
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 140
+Function value        : 51532.91
+Compliance            : 51532.55
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 141
+Function value        : 51532.80
+Compliance            : 51532.45
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 142
+Function value        : 51509.31
+Compliance            : 51508.95
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 143
+Function value        : 51680.71
+Compliance            : 51680.35
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 144
+Function value        : 51679.96
+Compliance            : 51679.61
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 145
+Function value        : 51678.90
+Compliance            : 51678.54
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 146
+Function value        : 51671.35
+Compliance            : 51670.99
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 147
+Function value        : 51685.64
+Compliance            : 51685.29
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 148
+Function value        : 51693.38
+Compliance            : 51693.02
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 149
+Function value        : 51701.06
+Compliance            : 51700.71
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 150
+Function value        : 51700.21
+Compliance            : 51699.85
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 151
+Function value        : 51542.29
+Compliance            : 51541.94
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 152
+Function value        : 51714.93
+Compliance            : 51714.57
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 153
+Function value        : 51710.79
+Compliance            : 51710.43
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 154
+Function value        : 51780.79
+Compliance            : 51780.44
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 155
+Function value        : 51831.09
+Compliance            : 51830.73
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 156
+Function value        : 51818.58
+Compliance            : 51818.23
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 157
+Function value        : 51824.80
+Compliance            : 51824.44
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 158
+Function value        : 51856.12
+Compliance            : 51855.76
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 159
+Function value        : 51856.12
+Compliance            : 51855.76
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 160
+Function value        : 51868.32
+Compliance            : 51867.96
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 161
+Function value        : 52048.29
+Compliance            : 52047.93
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 162
+Function value        : 52049.94
+Compliance            : 52049.58
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 163
+Function value        : 51882.11
+Compliance            : 51881.76
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 164
+Function value        : 51878.87
+Compliance            : 51878.51
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 165
+Function value        : 51892.31
+Compliance            : 51891.95
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 166
+Function value        : 51971.54
+Compliance            : 51971.19
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 167
+Function value        : 51958.91
+Compliance            : 51958.56
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 168
+Function value        : 52132.63
+Compliance            : 52132.28
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 169
+Function value        : 52191.27
+Compliance            : 52190.91
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 170
+Function value        : 52197.78
+Compliance            : 52197.42
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 171
+Function value        : 52194.91
+Compliance            : 52194.56
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 172
+Function value        : 52253.07
+Compliance            : 52252.71
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 173
+Function value        : 52257.68
+Compliance            : 52257.33
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 174
+Function value        : 52262.70
+Compliance            : 52262.35
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 175
+Function value        : 52262.70
+Compliance            : 52262.35
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 176
+Function value        : 52589.92
+Compliance            : 52589.56
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 177
+Function value        : 52422.55
+Compliance            : 52422.19
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 178
+Function value        : 52432.81
+Compliance            : 52432.46
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 179
+Function value        : 52502.52
+Compliance            : 52502.16
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 180
+Function value        : 52507.75
+Compliance            : 52507.40
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 181
+Function value        : 52516.43
+Compliance            : 52516.08
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 182
+Function value        : 52517.44
+Compliance            : 52517.09
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 183
+Function value        : 52519.26
+Compliance            : 52518.90
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 184
+Function value        : 52693.23
+Compliance            : 52692.88
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 185
+Function value        : 52758.04
+Compliance            : 52757.69
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 186
+Function value        : 52766.60
+Compliance            : 52766.25
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 187
+Function value        : 52766.49
+Compliance            : 52766.13
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 188
+Function value        : 52782.40
+Compliance            : 52782.04
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 189
+Function value        : 52769.77
+Compliance            : 52769.41
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 190
+Function value        : 52606.93
+Compliance            : 52606.58
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 191
+Function value        : 52780.49
+Compliance            : 52780.13
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 192
+Function value        : 52780.89
+Compliance            : 52780.54
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 193
+Function value        : 52898.50
+Compliance            : 52898.15
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 194
+Function value        : 52920.00
+Compliance            : 52919.64
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 195
+Function value        : 52920.00
+Compliance            : 52919.64
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 196
+Function value        : 53077.21
+Compliance            : 53076.85
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 197
+Function value        : 53066.45
+Compliance            : 53066.10
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 198
+Function value        : 53250.47
+Compliance            : 53250.11
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 199
+Function value        : 53249.25
+Compliance            : 53248.90
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 200
+Function value        : 53308.83
+Compliance            : 53308.47
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 201
+Function value        : 53328.69
+Compliance            : 53328.33
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 202
+Function value        : 53332.89
+Compliance            : 53332.54
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 203
+Function value        : 53334.38
+Compliance            : 53334.03
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 204
+Function value        : 53509.02
+Compliance            : 53508.66
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 205
+Function value        : 53509.02
+Compliance            : 53508.66
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 206
+Function value        : 53432.50
+Compliance            : 53432.14
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 207
+Function value        : 53435.02
+Compliance            : 53434.66
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 208
+Function value        : 53477.11
+Compliance            : 53476.76
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 209
+Function value        : 53473.88
+Compliance            : 53473.52
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 210
+Function value        : 53649.94
+Compliance            : 53649.59
+Volume fraction       : 0.89
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 211
+Function value        : 53823.34
+Compliance            : 53822.99
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 212
+Function value        : 53835.61
+Compliance            : 53835.25
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 213
+Function value        : 53839.80
+Compliance            : 53839.45
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 214
+Function value        : 53841.24
+Compliance            : 53840.89
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 215
+Function value        : 53843.74
+Compliance            : 53843.39
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 216
+Function value        : 53865.46
+Compliance            : 53865.11
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 217
+Function value        : 54104.24
+Compliance            : 54103.88
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 218
+Function value        : 54084.83
+Compliance            : 54084.48
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 219
+Function value        : 54089.86
+Compliance            : 54089.50
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 220
+Function value        : 54173.73
+Compliance            : 54173.38
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 221
+Function value        : 54178.55
+Compliance            : 54178.20
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 222
+Function value        : 54229.21
+Compliance            : 54228.86
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 223
+Function value        : 54234.14
+Compliance            : 54233.79
+Volume fraction       : 0.88
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 1
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 2
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Line search iteration : 3
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+Load type before processing: <class 'ufl.indexed.Indexed'>
+Extracted Load: f_8
+Processed Load: f_8
+************ ITERATION NUMBER 224
+Function value        : 54236.11
+Compliance            : 54235.76
+Volume fraction       : 0.88
+WARNING! There are options you set that were not used!
+WARNING! could be spelling mistake, etc!
+There are 2 unused database options. They are:
+Option left: name:-pc_factor_reuse_fill value: true source: code
+Option left: name:-pc_factor_reuse_ordering value: true source: code

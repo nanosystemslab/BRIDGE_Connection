@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/compliance.py", line 7, in <module>
+    from init import *
+  File "/home/kp779/BRIDGE_Connection/src/BRIDGE_Connection/init.py", line 69
+    if Name == 'half_wheel' or Name == 'bridge':
+                                                ^
+IndentationError: unindent does not match any outer indentation level

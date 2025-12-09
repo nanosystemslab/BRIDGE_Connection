@@ -1,0 +1,1677 @@
+#PETSc Option Table entries:
+-pc_factor_reuse_fill true # (source: code)
+-pc_factor_reuse_ordering true # (source: code)
+#End of PETSc Option Table entries
+Factor reuse options are not available in this PETSc version.
+************ ITERATION NUMBER 0
+Function value        : 51.34
+Compliance            : 14.11
+Volume fraction       : 0.62
+************ ITERATION NUMBER 1
+Function value        : 49.74
+Compliance            : 13.66
+Volume fraction       : 0.60
+************ ITERATION NUMBER 2
+Function value        : 48.51
+Compliance            : 13.49
+Volume fraction       : 0.58
+************ ITERATION NUMBER 3
+Function value        : 47.15
+Compliance            : 13.44
+Volume fraction       : 0.56
+************ ITERATION NUMBER 4
+Function value        : 45.88
+Compliance            : 13.46
+Volume fraction       : 0.54
+************ ITERATION NUMBER 5
+Function value        : 44.72
+Compliance            : 13.66
+Volume fraction       : 0.52
+************ ITERATION NUMBER 6
+Function value        : 43.60
+Compliance            : 13.80
+Volume fraction       : 0.50
+************ ITERATION NUMBER 7
+Function value        : 42.50
+Compliance            : 14.00
+Volume fraction       : 0.48
+************ ITERATION NUMBER 8
+Function value        : 41.59
+Compliance            : 14.16
+Volume fraction       : 0.46
+************ ITERATION NUMBER 9
+Function value        : 40.64
+Compliance            : 14.33
+Volume fraction       : 0.44
+************ ITERATION NUMBER 10
+Function value        : 39.84
+Compliance            : 14.46
+Volume fraction       : 0.42
+************ ITERATION NUMBER 11
+Function value        : 39.02
+Compliance            : 14.61
+Volume fraction       : 0.41
+************ ITERATION NUMBER 12
+Function value        : 38.22
+Compliance            : 14.73
+Volume fraction       : 0.39
+************ ITERATION NUMBER 13
+Function value        : 37.51
+Compliance            : 14.92
+Volume fraction       : 0.38
+************ ITERATION NUMBER 14
+Function value        : 36.81
+Compliance            : 15.00
+Volume fraction       : 0.36
+************ ITERATION NUMBER 15
+Function value        : 36.11
+Compliance            : 15.20
+Volume fraction       : 0.35
+************ ITERATION NUMBER 16
+Function value        : 35.87
+Compliance            : 15.68
+Volume fraction       : 0.34
+************ ITERATION NUMBER 17
+Function value        : 35.06
+Compliance            : 15.51
+Volume fraction       : 0.33
+************ ITERATION NUMBER 18
+Function value        : 34.45
+Compliance            : 15.49
+Volume fraction       : 0.32
+************ ITERATION NUMBER 19
+Function value        : 33.90
+Compliance            : 15.51
+Volume fraction       : 0.31
+************ ITERATION NUMBER 20
+Function value        : 33.43
+Compliance            : 15.68
+Volume fraction       : 0.30
+************ ITERATION NUMBER 21
+Function value        : 32.95
+Compliance            : 15.69
+Volume fraction       : 0.29
+************ ITERATION NUMBER 22
+Function value        : 32.60
+Compliance            : 15.83
+Volume fraction       : 0.28
+************ ITERATION NUMBER 23
+Function value        : 32.31
+Compliance            : 15.84
+Volume fraction       : 0.27
+************ ITERATION NUMBER 24
+Function value        : 32.04
+Compliance            : 15.90
+Volume fraction       : 0.27
+************ ITERATION NUMBER 25
+Function value        : 31.85
+Compliance            : 15.96
+Volume fraction       : 0.26
+************ ITERATION NUMBER 26
+Function value        : 31.63
+Compliance            : 16.04
+Volume fraction       : 0.26
+************ ITERATION NUMBER 27
+Function value        : 31.52
+Compliance            : 16.09
+Volume fraction       : 0.26
+************ ITERATION NUMBER 28
+Function value        : 31.37
+Compliance            : 16.17
+Volume fraction       : 0.25
+************ ITERATION NUMBER 29
+Function value        : 31.27
+Compliance            : 16.15
+Volume fraction       : 0.25
+************ ITERATION NUMBER 30
+Function value        : 31.24
+Compliance            : 16.25
+Volume fraction       : 0.25
+************ ITERATION NUMBER 31
+Function value        : 31.15
+Compliance            : 16.30
+Volume fraction       : 0.25
+************ ITERATION NUMBER 32
+Function value        : 31.11
+Compliance            : 16.37
+Volume fraction       : 0.25
+************ ITERATION NUMBER 33
+Function value        : 31.08
+Compliance            : 16.39
+Volume fraction       : 0.24
+Line search iteration : 1
+************ ITERATION NUMBER 34
+Function value        : 30.94
+Compliance            : 16.28
+Volume fraction       : 0.24
+************ ITERATION NUMBER 35
+Function value        : 30.93
+Compliance            : 16.29
+Volume fraction       : 0.24
+************ ITERATION NUMBER 36
+Function value        : 30.91
+Compliance            : 16.42
+Volume fraction       : 0.24
+Line search iteration : 1
+************ ITERATION NUMBER 37
+Function value        : 30.79
+Compliance            : 16.30
+Volume fraction       : 0.24
+************ ITERATION NUMBER 38
+Function value        : 30.73
+Compliance            : 16.30
+Volume fraction       : 0.24
+Line search iteration : 1
+************ ITERATION NUMBER 39
+Function value        : 30.68
+Compliance            : 16.33
+Volume fraction       : 0.24
+Line search iteration : 1
+************ ITERATION NUMBER 40
+Function value        : 30.61
+Compliance            : 16.26
+Volume fraction       : 0.24
+************ ITERATION NUMBER 41
+Function value        : 30.61
+Compliance            : 16.40
+Volume fraction       : 0.24
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 42
+Function value        : 30.55
+Compliance            : 16.41
+Volume fraction       : 0.24
+************ ITERATION NUMBER 43
+Function value        : 30.54
+Compliance            : 16.41
+Volume fraction       : 0.24
+************ ITERATION NUMBER 44
+Function value        : 30.49
+Compliance            : 16.46
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 45
+Function value        : 30.45
+Compliance            : 16.51
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 46
+Function value        : 30.45
+Compliance            : 16.46
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 47
+Function value        : 30.45
+Compliance            : 16.52
+Volume fraction       : 0.23
+************ ITERATION NUMBER 48
+Function value        : 30.44
+Compliance            : 16.52
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 49
+Function value        : 30.46
+Compliance            : 16.49
+Volume fraction       : 0.23
+************ ITERATION NUMBER 50
+Function value        : 30.46
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 51
+Function value        : 30.46
+Compliance            : 16.53
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 52
+Function value        : 30.43
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 53
+Function value        : 30.41
+Compliance            : 16.47
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 54
+Function value        : 30.41
+Compliance            : 16.52
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 55
+Function value        : 30.42
+Compliance            : 16.61
+Volume fraction       : 0.23
+************ ITERATION NUMBER 56
+Function value        : 30.40
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 57
+Function value        : 30.39
+Compliance            : 16.52
+Volume fraction       : 0.23
+************ ITERATION NUMBER 58
+Function value        : 30.36
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 59
+Function value        : 30.39
+Compliance            : 16.64
+Volume fraction       : 0.23
+************ ITERATION NUMBER 60
+Function value        : 30.39
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 61
+Function value        : 30.38
+Compliance            : 16.56
+Volume fraction       : 0.23
+************ ITERATION NUMBER 62
+Function value        : 30.38
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 63
+Function value        : 30.38
+Compliance            : 16.60
+Volume fraction       : 0.23
+************ ITERATION NUMBER 64
+Function value        : 30.36
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 65
+Function value        : 30.36
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 66
+Function value        : 30.36
+Compliance            : 16.57
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 67
+Function value        : 30.35
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 68
+Function value        : 30.34
+Compliance            : 16.51
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 69
+Function value        : 30.33
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 70
+Function value        : 30.33
+Compliance            : 16.54
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 71
+Function value        : 30.33
+Compliance            : 16.57
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 72
+Function value        : 30.33
+Compliance            : 16.55
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 73
+Function value        : 30.36
+Compliance            : 16.59
+Volume fraction       : 0.23
+************ ITERATION NUMBER 74
+Function value        : 30.34
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 75
+Function value        : 30.33
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 76
+Function value        : 30.32
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 77
+Function value        : 30.31
+Compliance            : 16.49
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 78
+Function value        : 30.33
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 79
+Function value        : 30.32
+Compliance            : 16.57
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 80
+Function value        : 30.35
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 81
+Function value        : 30.35
+Compliance            : 16.62
+Volume fraction       : 0.23
+************ ITERATION NUMBER 82
+Function value        : 30.34
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 83
+Function value        : 30.34
+Compliance            : 16.57
+Volume fraction       : 0.23
+************ ITERATION NUMBER 84
+Function value        : 30.34
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 85
+Function value        : 30.33
+Compliance            : 16.57
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 86
+Function value        : 30.33
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 87
+Function value        : 30.33
+Compliance            : 16.57
+Volume fraction       : 0.23
+************ ITERATION NUMBER 88
+Function value        : 30.32
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 89
+Function value        : 30.32
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 90
+Function value        : 30.35
+Compliance            : 16.63
+Volume fraction       : 0.23
+************ ITERATION NUMBER 91
+Function value        : 30.33
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 92
+Function value        : 30.34
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 93
+Function value        : 30.34
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 94
+Function value        : 30.33
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 95
+Function value        : 30.33
+Compliance            : 16.54
+Volume fraction       : 0.23
+************ ITERATION NUMBER 96
+Function value        : 30.32
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 97
+Function value        : 30.37
+Compliance            : 16.64
+Volume fraction       : 0.23
+************ ITERATION NUMBER 98
+Function value        : 30.35
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 99
+Function value        : 30.35
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 100
+Function value        : 30.34
+Compliance            : 16.67
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 101
+Function value        : 30.34
+Compliance            : 16.59
+Volume fraction       : 0.23
+************ ITERATION NUMBER 102
+Function value        : 30.34
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 103
+Function value        : 30.33
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 104
+Function value        : 30.31
+Compliance            : 16.47
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 105
+Function value        : 30.33
+Compliance            : 16.55
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 106
+Function value        : 30.32
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 107
+Function value        : 30.32
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 108
+Function value        : 30.32
+Compliance            : 16.57
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 109
+Function value        : 30.33
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 110
+Function value        : 30.34
+Compliance            : 16.59
+Volume fraction       : 0.23
+************ ITERATION NUMBER 111
+Function value        : 30.32
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 112
+Function value        : 30.34
+Compliance            : 16.58
+Volume fraction       : 0.23
+************ ITERATION NUMBER 113
+Function value        : 30.31
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 114
+Function value        : 30.31
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 115
+Function value        : 30.33
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 116
+Function value        : 30.32
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 117
+Function value        : 30.33
+Compliance            : 16.62
+Volume fraction       : 0.23
+************ ITERATION NUMBER 118
+Function value        : 30.32
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 119
+Function value        : 30.32
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 120
+Function value        : 30.33
+Compliance            : 16.59
+Volume fraction       : 0.23
+************ ITERATION NUMBER 121
+Function value        : 30.32
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 122
+Function value        : 30.33
+Compliance            : 16.60
+Volume fraction       : 0.23
+************ ITERATION NUMBER 123
+Function value        : 30.33
+Compliance            : 16.63
+Volume fraction       : 0.23
+************ ITERATION NUMBER 124
+Function value        : 30.32
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 125
+Function value        : 30.35
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 126
+Function value        : 30.34
+Compliance            : 16.60
+Volume fraction       : 0.23
+************ ITERATION NUMBER 127
+Function value        : 30.33
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 128
+Function value        : 30.37
+Compliance            : 16.63
+Volume fraction       : 0.23
+************ ITERATION NUMBER 129
+Function value        : 30.34
+Compliance            : 16.71
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 130
+Function value        : 30.34
+Compliance            : 16.62
+Volume fraction       : 0.23
+************ ITERATION NUMBER 131
+Function value        : 30.33
+Compliance            : 16.61
+Volume fraction       : 0.23
+************ ITERATION NUMBER 132
+Function value        : 30.32
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 133
+Function value        : 30.34
+Compliance            : 16.63
+Volume fraction       : 0.23
+************ ITERATION NUMBER 134
+Function value        : 30.32
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 135
+Function value        : 30.32
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 136
+Function value        : 30.31
+Compliance            : 16.52
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 137
+Function value        : 30.33
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 138
+Function value        : 30.34
+Compliance            : 16.61
+Volume fraction       : 0.23
+************ ITERATION NUMBER 139
+Function value        : 30.32
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 140
+Function value        : 30.33
+Compliance            : 16.61
+Volume fraction       : 0.23
+************ ITERATION NUMBER 141
+Function value        : 30.33
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 142
+Function value        : 30.32
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 143
+Function value        : 30.32
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 144
+Function value        : 30.31
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 145
+Function value        : 30.31
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 146
+Function value        : 30.31
+Compliance            : 16.62
+Volume fraction       : 0.23
+************ ITERATION NUMBER 147
+Function value        : 30.31
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 148
+Function value        : 30.32
+Compliance            : 16.61
+Volume fraction       : 0.23
+************ ITERATION NUMBER 149
+Function value        : 30.30
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 150
+Function value        : 30.31
+Compliance            : 16.54
+Volume fraction       : 0.23
+************ ITERATION NUMBER 151
+Function value        : 30.31
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 152
+Function value        : 30.32
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 153
+Function value        : 30.32
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 154
+Function value        : 30.32
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 155
+Function value        : 30.31
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 156
+Function value        : 30.31
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 157
+Function value        : 30.33
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 158
+Function value        : 30.32
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 159
+Function value        : 30.31
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 160
+Function value        : 30.34
+Compliance            : 16.64
+Volume fraction       : 0.23
+************ ITERATION NUMBER 161
+Function value        : 30.33
+Compliance            : 16.63
+Volume fraction       : 0.23
+************ ITERATION NUMBER 162
+Function value        : 30.31
+Compliance            : 16.65
+Volume fraction       : 0.23
+************ ITERATION NUMBER 163
+Function value        : 30.31
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 164
+Function value        : 30.31
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 165
+Function value        : 30.31
+Compliance            : 16.55
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 166
+Function value        : 30.32
+Compliance            : 16.60
+Volume fraction       : 0.23
+************ ITERATION NUMBER 167
+Function value        : 30.30
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 168
+Function value        : 30.32
+Compliance            : 16.60
+Volume fraction       : 0.23
+************ ITERATION NUMBER 169
+Function value        : 30.31
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 170
+Function value        : 30.31
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 171
+Function value        : 30.32
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 172
+Function value        : 30.31
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 173
+Function value        : 30.31
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 174
+Function value        : 30.31
+Compliance            : 16.55
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 175
+Function value        : 30.31
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 176
+Function value        : 30.30
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 177
+Function value        : 30.32
+Compliance            : 16.60
+Volume fraction       : 0.23
+************ ITERATION NUMBER 178
+Function value        : 30.32
+Compliance            : 16.69
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 179
+Function value        : 30.31
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 180
+Function value        : 30.30
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 181
+Function value        : 30.30
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 182
+Function value        : 30.30
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 183
+Function value        : 30.32
+Compliance            : 16.61
+Volume fraction       : 0.23
+************ ITERATION NUMBER 184
+Function value        : 30.31
+Compliance            : 16.68
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 185
+Function value        : 30.34
+Compliance            : 16.63
+Volume fraction       : 0.23
+************ ITERATION NUMBER 186
+Function value        : 30.34
+Compliance            : 16.67
+Volume fraction       : 0.23
+************ ITERATION NUMBER 187
+Function value        : 30.30
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 188
+Function value        : 30.35
+Compliance            : 16.65
+Volume fraction       : 0.23
+************ ITERATION NUMBER 189
+Function value        : 30.31
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 190
+Function value        : 30.31
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 191
+Function value        : 30.32
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 192
+Function value        : 30.32
+Compliance            : 16.59
+Volume fraction       : 0.23
+************ ITERATION NUMBER 193
+Function value        : 30.32
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 194
+Function value        : 30.32
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 195
+Function value        : 30.32
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 196
+Function value        : 30.32
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 197
+Function value        : 30.31
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 198
+Function value        : 30.33
+Compliance            : 16.65
+Volume fraction       : 0.23
+************ ITERATION NUMBER 199
+Function value        : 30.32
+Compliance            : 16.67
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 200
+Function value        : 30.31
+Compliance            : 16.57
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 201
+Function value        : 30.30
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 202
+Function value        : 30.32
+Compliance            : 16.59
+Volume fraction       : 0.23
+************ ITERATION NUMBER 203
+Function value        : 30.32
+Compliance            : 16.71
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 204
+Function value        : 30.31
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 205
+Function value        : 30.30
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 206
+Function value        : 30.30
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 207
+Function value        : 30.30
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 208
+Function value        : 30.33
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 209
+Function value        : 30.32
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 210
+Function value        : 30.33
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 211
+Function value        : 30.32
+Compliance            : 16.63
+Volume fraction       : 0.23
+************ ITERATION NUMBER 212
+Function value        : 30.32
+Compliance            : 16.72
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 213
+Function value        : 30.31
+Compliance            : 16.53
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 214
+Function value        : 30.33
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 215
+Function value        : 30.31
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 216
+Function value        : 30.34
+Compliance            : 16.64
+Volume fraction       : 0.23
+************ ITERATION NUMBER 217
+Function value        : 30.31
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 218
+Function value        : 30.31
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 219
+Function value        : 30.30
+Compliance            : 16.57
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 220
+Function value        : 30.32
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 221
+Function value        : 30.31
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 222
+Function value        : 30.31
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 223
+Function value        : 30.30
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 224
+Function value        : 30.33
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 225
+Function value        : 30.32
+Compliance            : 16.63
+Volume fraction       : 0.23
+************ ITERATION NUMBER 226
+Function value        : 30.32
+Compliance            : 16.68
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 227
+Function value        : 30.31
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 228
+Function value        : 30.32
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 229
+Function value        : 30.33
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 230
+Function value        : 30.33
+Compliance            : 16.64
+Volume fraction       : 0.23
+************ ITERATION NUMBER 231
+Function value        : 30.32
+Compliance            : 16.68
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 232
+Function value        : 30.32
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 233
+Function value        : 30.31
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 234
+Function value        : 30.31
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 235
+Function value        : 30.31
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 236
+Function value        : 30.33
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 237
+Function value        : 30.31
+Compliance            : 16.67
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 238
+Function value        : 30.34
+Compliance            : 16.65
+Volume fraction       : 0.23
+************ ITERATION NUMBER 239
+Function value        : 30.33
+Compliance            : 16.72
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 240
+Function value        : 30.34
+Compliance            : 16.65
+Volume fraction       : 0.23
+************ ITERATION NUMBER 241
+Function value        : 30.31
+Compliance            : 16.57
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 242
+Function value        : 30.32
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 243
+Function value        : 30.32
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 244
+Function value        : 30.32
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 245
+Function value        : 30.31
+Compliance            : 16.58
+Volume fraction       : 0.23
+************ ITERATION NUMBER 246
+Function value        : 30.31
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 247
+Function value        : 30.31
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 248
+Function value        : 30.30
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 249
+Function value        : 30.30
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 250
+Function value        : 30.33
+Compliance            : 16.61
+Volume fraction       : 0.23
+************ ITERATION NUMBER 251
+Function value        : 30.32
+Compliance            : 16.67
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 252
+Function value        : 30.35
+Compliance            : 16.70
+Volume fraction       : 0.23
+************ ITERATION NUMBER 253
+Function value        : 30.32
+Compliance            : 16.71
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 254
+Function value        : 30.34
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 255
+Function value        : 30.32
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 256
+Function value        : 30.30
+Compliance            : 16.58
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 257
+Function value        : 30.32
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 258
+Function value        : 30.32
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 259
+Function value        : 30.31
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 260
+Function value        : 30.31
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 261
+Function value        : 30.33
+Compliance            : 16.65
+Volume fraction       : 0.23
+************ ITERATION NUMBER 262
+Function value        : 30.31
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 263
+Function value        : 30.32
+Compliance            : 16.57
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 264
+Function value        : 30.31
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 265
+Function value        : 30.32
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 266
+Function value        : 30.32
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 267
+Function value        : 30.33
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 268
+Function value        : 30.33
+Compliance            : 16.69
+Volume fraction       : 0.23
+************ ITERATION NUMBER 269
+Function value        : 30.33
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 270
+Function value        : 30.34
+Compliance            : 16.70
+Volume fraction       : 0.23
+************ ITERATION NUMBER 271
+Function value        : 30.33
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 272
+Function value        : 30.32
+Compliance            : 16.68
+Volume fraction       : 0.23
+************ ITERATION NUMBER 273
+Function value        : 30.32
+Compliance            : 16.56
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 274
+Function value        : 30.32
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 275
+Function value        : 30.31
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 276
+Function value        : 30.30
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 277
+Function value        : 30.30
+Compliance            : 16.59
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 278
+Function value        : 30.31
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 279
+Function value        : 30.31
+Compliance            : 16.57
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 280
+Function value        : 30.31
+Compliance            : 16.62
+Volume fraction       : 0.23
+************ ITERATION NUMBER 281
+Function value        : 30.31
+Compliance            : 16.65
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 282
+Function value        : 30.31
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 283
+Function value        : 30.31
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 284
+Function value        : 30.32
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 285
+Function value        : 30.32
+Compliance            : 16.61
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 286
+Function value        : 30.30
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 287
+Function value        : 30.32
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 288
+Function value        : 30.32
+Compliance            : 16.67
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 289
+Function value        : 30.35
+Compliance            : 16.68
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 290
+Function value        : 30.33
+Compliance            : 16.68
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 291
+Function value        : 30.34
+Compliance            : 16.60
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 292
+Function value        : 30.34
+Compliance            : 16.62
+Volume fraction       : 0.23
+************ ITERATION NUMBER 293
+Function value        : 30.32
+Compliance            : 16.64
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 294
+Function value        : 30.34
+Compliance            : 16.66
+Volume fraction       : 0.23
+Line search iteration : 1
+************ ITERATION NUMBER 295
+Function value        : 30.33
+Compliance            : 16.63
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 296
+Function value        : 30.32
+Compliance            : 16.62
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+************ ITERATION NUMBER 297
+Function value        : 30.31
+Compliance            : 16.57
+Volume fraction       : 0.23
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 298
+Function value        : 30.33
+Compliance            : 16.62
+Volume fraction       : 0.23
+************ ITERATION NUMBER 299
+Function value        : 30.32
+Compliance            : 16.67
+Volume fraction       : 0.23
+WARNING! There are options you set that were not used!
+WARNING! could be spelling mistake, etc!
+There are 2 unused database options. They are:
+Option left: name:-pc_factor_reuse_fill value: true source: code
+Option left: name:-pc_factor_reuse_ordering value: true source: code

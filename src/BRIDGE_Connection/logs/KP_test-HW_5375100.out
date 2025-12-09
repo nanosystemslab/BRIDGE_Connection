@@ -1,0 +1,117 @@
+#PETSc Option Table entries:
+-pc_factor_reuse_fill true # (source: code)
+-pc_factor_reuse_ordering true # (source: code)
+#End of PETSc Option Table entries
+Factor reuse options are not available in this PETSc version.
+************ ITERATION NUMBER 0
+Function value        : 1594.54
+Compliance            : 1593.18
+Volume fraction       : 0.68
+************ ITERATION NUMBER 1
+Function value        : 1563.62
+Compliance            : 1562.25
+Volume fraction       : 0.68
+************ ITERATION NUMBER 2
+Function value        : 1540.09
+Compliance            : 1538.72
+Volume fraction       : 0.69
+************ ITERATION NUMBER 3
+Function value        : 1479.07
+Compliance            : 1477.70
+Volume fraction       : 0.69
+************ ITERATION NUMBER 4
+Function value        : 1437.52
+Compliance            : 1436.15
+Volume fraction       : 0.69
+************ ITERATION NUMBER 5
+Function value        : 1394.08
+Compliance            : 1392.71
+Volume fraction       : 0.69
+************ ITERATION NUMBER 6
+Function value        : 1352.46
+Compliance            : 1351.08
+Volume fraction       : 0.69
+************ ITERATION NUMBER 7
+Function value        : 1338.70
+Compliance            : 1337.32
+Volume fraction       : 0.69
+************ ITERATION NUMBER 8
+Function value        : 1331.77
+Compliance            : 1330.39
+Volume fraction       : 0.69
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 9
+Function value        : 1331.77
+Compliance            : 1330.39
+Volume fraction       : 0.69
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 10
+Function value        : 1338.85
+Compliance            : 1337.47
+Volume fraction       : 0.69
+************ ITERATION NUMBER 11
+Function value        : 1327.73
+Compliance            : 1326.35
+Volume fraction       : 0.69
+************ ITERATION NUMBER 12
+Function value        : 1327.70
+Compliance            : 1326.32
+Volume fraction       : 0.69
+************ ITERATION NUMBER 13
+Function value        : 1323.77
+Compliance            : 1322.39
+Volume fraction       : 0.69
+Line search iteration : 1
+************ ITERATION NUMBER 14
+Function value        : 1323.70
+Compliance            : 1322.32
+Volume fraction       : 0.69
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 15
+Function value        : 1324.06
+Compliance            : 1322.68
+Volume fraction       : 0.69
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 16
+Function value        : 1324.07
+Compliance            : 1322.69
+Volume fraction       : 0.69
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 17
+Function value        : 1324.07
+Compliance            : 1322.69
+Volume fraction       : 0.69
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 18
+Function value        : 1324.07
+Compliance            : 1322.69
+Volume fraction       : 0.69
+Line search iteration : 1
+Line search iteration : 2
+Line search iteration : 3
+************ ITERATION NUMBER 19
+Function value        : 1324.07
+Compliance            : 1322.69
+Volume fraction       : 0.69
+Line search iteration : 1
+************ ITERATION NUMBER 20
+Function value        : 1324.07
+Compliance            : 1322.69
+Volume fraction       : 0.69
+WARNING! There are options you set that were not used!
+WARNING! could be spelling mistake, etc!
+There are 2 unused database options. They are:
+Option left: name:-pc_factor_reuse_fill value: true source: code
+Option left: name:-pc_factor_reuse_ordering value: true source: code
