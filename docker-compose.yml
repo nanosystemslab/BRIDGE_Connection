@@ -1,10 +1,11 @@
 services:
   bridge-connection:
-    # Build from our Dockerfile if image doesn't exist
-    build:
-      context: .
-      dockerfile: docker/Dockerfile
-    image: bridge-connection:dolfinx
+    # Pull from Docker Hub (or build locally if needed)
+    image: nanosystemslab/bridge-connection:latest
+    # Uncomment to build locally instead of pulling:
+    # build:
+    #   context: .
+    #   dockerfile: docker/Dockerfile
 
     container_name: bridge-connection-dev
 

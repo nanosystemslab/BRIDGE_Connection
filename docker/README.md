@@ -19,6 +19,9 @@ docker/
 From the project root directory:
 
 ```bash
+# Pull the image from Docker Hub (first time only)
+docker pull nanosystemslab/bridge-connection:latest
+
 # Start the container
 docker compose up -d
 
@@ -30,16 +33,23 @@ docker compose up -d
 docker compose down
 ```
 
-## Building the Image
+## Image Source
 
-If you need to rebuild the image:
+The Docker image is hosted on Docker Hub:
+- **Repository**: [nanosystemslab/bridge-connection](https://hub.docker.com/r/nanosystemslab/bridge-connection)
+- **Pull command**: `docker pull nanosystemslab/bridge-connection:latest`
+
+## Building the Image Locally
+
+If you need to modify and rebuild the image:
 
 ```bash
 # From project root
-docker compose build
-
-# Or directly with Docker
 docker build -f docker/Dockerfile -t bridge-connection:dolfinx .
+
+# Then update docker-compose.yml to use local image
+# Change: image: nanosystemslab/bridge-connection:latest
+# To: image: bridge-connection:dolfinx
 ```
 
 ## Image Details

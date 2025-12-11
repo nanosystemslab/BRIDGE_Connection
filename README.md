@@ -27,6 +27,9 @@ BRIDGE Connection is a computational mechanics project for simulating hyperelast
 git clone https://github.com/nanosystemslab/BRIDGE_Connection.git
 cd BRIDGE_Connection
 
+# Pull the Docker image from Docker Hub
+docker pull nanosystemslab/bridge-connection:latest
+
 # Start the Docker container
 docker compose up -d
 
