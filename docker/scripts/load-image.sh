@@ -1,7 +1,7 @@
 #!/bin/bash
 # Load Docker image from tar.gz file
 
-INPUT_FILE="${1:-docker/images/me-672_amd64.tar.gz}"
+INPUT_FILE="${1:-docker/images/bridge-connection.tar.gz}"
 
 echo "Loading Docker image from: $INPUT_FILE"
 
@@ -31,10 +31,10 @@ if [ $? -eq 0 ]; then
     docker images
     echo ""
     echo "To run the container:"
-    echo "  docker-compose up"
+    echo "  docker compose up"
     echo "Or:"
-    echo "  docker run --rm -it -p 8888:8888 -e JUPYTER_TOKEN=me672 \\"
-    echo "    -v \"\$PWD\":/home/me-672/work me-672:amd64"
+    echo "  docker run --rm -it -p 8888:8888 \\"
+    echo "    -v \"\$PWD\":/home/fenics/shared bridge-connection:dolfinx"
 else
     echo "Error: Failed to load image!"
     exit 1

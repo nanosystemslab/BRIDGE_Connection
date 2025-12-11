@@ -137,4 +137,3 @@ Please report issues at: https://github.com/nanosystemslab/BRIDGE_Connection/iss
 ## Acknowledgments
 
 - FEniCSx Project for the finite element framework
-- ME-672 course for initial Docker environment inspiration

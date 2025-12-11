@@ -1,8 +1,8 @@
 #!/bin/bash
 # Save Docker image to tar.gz file for sharing
 
-IMAGE_NAME="${1:-me-672:amd64}"
-OUTPUT_FILE="${2:-docker/images/me-672_amd64.tar.gz}"
+IMAGE_NAME="${1:-bridge-connection:dolfinx}"
+OUTPUT_FILE="${2:-docker/images/bridge-connection.tar.gz}"
 
 echo "Saving Docker image: $IMAGE_NAME"
 echo "Output file: $OUTPUT_FILE"

@@ -8,11 +8,10 @@ This directory contains all Docker-related files for the BRIDGE Connection proje
 docker/
 ├── Dockerfile                # Main Dockerfile based on official dolfinx/dolfinx:v0.7.2
 ├── .dockerignore            # Files to exclude from Docker build context
-├── scripts/                 # Helper scripts for Docker operations
-│   ├── save-image.sh       # Save Docker image to tar file
-│   ├── load-image.sh       # Load Docker image from tar file
-│   └── push-to-hub.sh      # Push image to Docker Hub
-└── ME-672-Course-Docker-Documentation.pdf  # Original course Docker documentation (reference only)
+└── scripts/                 # Helper scripts for Docker operations
+    ├── save-image.sh       # Save Docker image to tar file
+    ├── load-image.sh       # Load Docker image from tar file
+    └── push-to-hub.sh      # Push image to Docker Hub
 ```
 
 ## Quick Start

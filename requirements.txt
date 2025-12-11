@@ -16,7 +16,7 @@ ipywidgets>=8.1.5
 notebook>=7.0.0
 
 # Note: FEniCSx components (dolfinx, basix, ufl, ffcx) are pre-installed
-# in the base Docker images (me-672:amd64 or dolfinx/dolfinx:stable)
+# in the Docker image (bridge-connection:dolfinx)
 # These include:
 # - fenics-dolfinx
 # - fenics-basix

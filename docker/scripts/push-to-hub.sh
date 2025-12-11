@@ -4,7 +4,7 @@
 # Configuration - update these for your organization
 DOCKER_HUB_USER="${DOCKER_HUB_USER:-nanosystemslab}"
 REPO_NAME="${REPO_NAME:-bridge-connection}"
-IMAGE_NAME="${1:-me-672:amd64}"
+IMAGE_NAME="${1:-bridge-connection:dolfinx}"
 TAG="${2:-latest}"
 
 FULL_NAME="$DOCKER_HUB_USER/$REPO_NAME:$TAG"

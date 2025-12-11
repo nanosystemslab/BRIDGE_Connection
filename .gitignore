@@ -152,6 +152,9 @@ docker/images/*.tar.bz2
 !docker/images/README.md
 !docker/images/*.sh
 
+# Large PDFs and documentation
+docker/*.pdf
+
 # Documentation build
 /docs/_build/
 
