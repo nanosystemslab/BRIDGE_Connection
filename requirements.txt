@@ -1,0 +1,31 @@
+# Core dependencies for BRIDGE_Connection project
+# These are installed in the Docker container
+
+# Mesh generation and I/O
+gmsh>=4.13.0
+meshio>=5.3.5
+
+# Visualization
+matplotlib>=3.7.0
+
+# Jupyter environment
+jupyter>=1.1.1
+jupyterlab>=4.2.5
+ipykernel>=6.29.5
+ipywidgets>=8.1.5
+notebook>=7.0.0
+
+# Note: FEniCSx components (dolfinx, basix, ufl, ffcx) are pre-installed
+# in the base Docker images (me-672:amd64 or dolfinx/dolfinx:stable)
+# These include:
+# - fenics-dolfinx
+# - fenics-basix
+# - fenics-ffcx
+# - fenics-ufl
+# - petsc4py
+# - mpi4py
+# - numpy (comes with FEniCSx)
+
+# Additional tools (optional)
+rich>=13.0.0  # Better terminal output
+h5py>=3.10.0  # HDF5 support for XDMF files

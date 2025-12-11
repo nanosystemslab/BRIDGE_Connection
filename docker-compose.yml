@@ -1,0 +1,52 @@
+services:
+  bridge-connection:
+    # Build from our Dockerfile if image doesn't exist
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    image: bridge-connection:dolfinx
+
+    container_name: bridge-connection-dev
+
+    ports:
+      - "8888:8888"
+
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+
+    volumes:
+      # Mount current directory to /home/fenics/shared
+      - .:/home/fenics/shared
+      # Optional: Mount for persistent Jupyter config
+      - jupyter_config:/home/fenics/.jupyter
+
+    # Keep container running
+    stdin_open: true
+    tty: true
+
+    # Command to start Jupyter with no authentication for development
+    command: jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token=''
+
+  # Alternative configuration using official FEniCSx image
+  fenics-dev:
+    image: dolfinx/dolfinx:stable
+    container_name: bridge-fenics-dev
+
+    ports:
+      - "8889:8888"
+
+    environment:
+      - JUPYTER_TOKEN=bridge
+      - JUPYTER_ENABLE_LAB=yes
+
+    volumes:
+      - .:/home/fenics/work
+
+    stdin_open: true
+    tty: true
+
+    profiles:
+      - fenics
+
+volumes:
+  jupyter_config:

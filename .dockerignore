@@ -1,0 +1,47 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info
+.pytest_cache
+.mypy_cache
+.coverage
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Results and data
+results/vtk/*
+results/figures/*
+results/logs/*
+*.vtu
+*.pvd
+*.msh
+*.h5
+*.xdmf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# Documentation build
+docs/_build
+docs/build
+
+# Large files
+*.tar.gz
+*.zip
+merge/

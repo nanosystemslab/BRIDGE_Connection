@@ -66,12 +66,36 @@ venv/
 ENV/
 
 # OS files
+## macOS
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
+.AppleDouble
+.LSOverride
+Icon
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+## Windows
 Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+## Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
 
 # Editor files
 *.swp
@@ -119,6 +143,14 @@ merge/
 *.tbz
 *.tar.gz
 *.zip
+
+# Docker images (too large for git)
+docker/images/*.tar
+docker/images/*.tar.gz
+docker/images/*.tar.bz2
+# Keep only README and scripts
+!docker/images/README.md
+!docker/images/*.sh
 
 # Documentation build
 /docs/_build/

@@ -1,61 +1,140 @@
-# Bridge_Connection
+# BRIDGE Connection
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Python Versions](https://img.shields.io/badge/python-3.9%20)](#)
+[![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
+[![FEniCSx](https://img.shields.io/badge/FEniCSx-0.7.2-orange.svg)](https://fenicsproject.org/)
+[![Docker](https://img.shields.io/badge/docker-ready-brightgreen.svg)](./docker/)
 
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
-[![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
+## Overview
 
-[pre-commit]: https://github.com/pre-commit/pre-commit
-[black]: https://github.com/psf/black
+BRIDGE Connection is a computational mechanics project for simulating hyperelastic arch-block systems using FEniCSx/dolfinx. This project focuses on finite element analysis of bridge-like structures with contact mechanics.
 
 ## Features
 
-- TODO
+- Hyperelastic material modeling
+- Contact mechanics simulation
+- Arch-block system analysis
+- FEniCSx/dolfinx based FEM solver
+- Jupyter notebook workflow
+- Docker containerized environment
 
-## Requirements
+## Quick Start
 
-- TODO
+### Using Docker (Recommended)
 
-## Installation
+```bash
+# Clone the repository
+git clone https://github.com/nanosystemslab/BRIDGE_Connection.git
+cd BRIDGE_Connection
 
-You can install _Bridge_Connection_ via [pip] from [PyPI]:
+# Start the Docker container
+docker compose up -d
 
-```console
-$ pip install BRIDGE_Connection
+# Access Jupyter Lab at http://localhost:8888
+# (No password required in development mode)
 ```
+
+See [docker/README.md](./docker/README.md) for detailed Docker setup instructions.
+
+### Local Installation
+
+```bash
+# Install from source
+pip install -e .
+
+# Or install dependencies only
+pip install -r requirements.txt
+```
+
+## Project Structure
+
+```
+BRIDGE_Connection/
+├── notebooks/active/     # Active development notebooks
+├── src/BRIDGE_Connection/ # Python source code
+├── docker/               # Docker configuration
+├── data/                 # Input data files
+├── results/              # Output and results
+└── tests/                # Test suite
+```
+
+See [STRUCTURE.md](./STRUCTURE.md) for detailed project organization.
 
 ## Usage
 
-Please see the [Command-line Reference] for details.
+### Running Simulations
 
-## Contributing
+1. Start Jupyter Lab using Docker:
+   ```bash
+   docker compose up -d
+   ```
 
-Contributions are very welcome.
-To learn more, see the [Contributor Guide].
+2. Open browser to http://localhost:8888
+
+3. Navigate to `notebooks/active/` for current work
+
+4. Open `working5.ipynb` for the main hyperelastic simulation
+
+### Key Notebooks
+
+- `working5.ipynb` - Main hyperelastic arch-block simulation
+- Examples in `notebooks/examples/` (coming soon)
+
+## Development
+
+### Docker Environment
+
+All dependencies are containerized for consistency:
+- FEniCSx/dolfinx v0.7.2
+- Scientific Python stack
+- Jupyter Lab
+- Mesh generation tools
+
+### Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
+### Testing
+
+```bash
+# Run tests in Docker
+docker compose exec bridge-connection pytest
+
+# Or locally
+pytest tests/
+```
+
+## Documentation
+
+- [Docker Setup](./docker/README.md) - Container configuration
+- [Project Structure](./STRUCTURE.md) - Code organization
+- [API Documentation](https://bridge-connection.readthedocs.io/) (coming soon)
+
+## Team
+
+Developed by the Nanosystems Lab team.
 
 ## License
 
-Distributed under the terms of the [GPL 3.0 license][license],
-_Bridge_Connection_ is free and open source software.
+This project is licensed under the GPL v3 License - see [LICENSE](./LICENSE) for details.
+
+## Citation
+
+If you use this software in your research, please cite:
+```bibtex
+@software{bridge_connection,
+  title={BRIDGE Connection},
+  author={Nanosystems Lab},
+  year={2024},
+  url={https://github.com/nanosystemslab/BRIDGE_Connection}
+}
+```
 
 ## Issues
 
-If you encounter any problems,
-please [file an issue] along with a detailed description.
+Please report issues at: https://github.com/nanosystemslab/BRIDGE_Connection/issues
 
-## Credits
+## Acknowledgments
 
-This project was generated from [@nanosystemslab]'s [Nanosystems Lab Python Cookiecutter] template.
-
-[@nanosystemslab]: https://github.com/nanosystemslab
-[pypi]: https://pypi.org/
-[Nanosystems Lab Python Cookiecutter]: https://github.com/nanosystemslab/cookiecutter-nanosystemslab
-[file an issue]: https://github.com/nanosystemslab/BRIDGE_Connection/issues
-[pip]: https://pip.pypa.io/
-
-<!-- github-only -->
-
-[license]: https://github.com/nanosystemslab/BRIDGE_Connection/blob/main/LICENSE
-[contributor guide]: https://github.com/nanosystemslab/BRIDGE_Connection/blob/main/CONTRIBUTING.md
-[command-line reference]: https://BRIDGE_Connection.readthedocs.io/en/latest/usage.html
+- FEniCSx Project for the finite element framework
+- ME-672 course for initial Docker environment inspiration
