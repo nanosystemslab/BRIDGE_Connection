@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+type: software
+title: "BRIDGE Connection"
+message: "If you use this software, please cite it as below."
+version: 0.1.0
+date-released: 2025-12-11
+authors:
+  - family-names: "Peterson"
+    given-names: "Kirsten"
+    email: "kp799@hawaii.edu"
+    orcid: "https://orcid.org/0009-0003-1906-9788"
+    affiliation: "University of Hawaii"
+  - family-names: "Nakamura"
+    given-names: "Matthew"
+    email: "mtdsn@hawaii.edu"
+    orcid: "https://orcid.org/0009-0008-6173-2658"
+    affiliation: "University of Hawaii"
+abstract: >-
+  Computational mechanics research software for simulating the structural behavior
+  of arch-block bridge systems using finite element methods (FEM). Implements
+  hyperelastic material models and contact mechanics to analyze the interaction
+  between bridge components under various loading conditions. Built on the FEniCSx/dolfinx
+  framework for efficient computation of large deformation problems with nonlinear
+  material behavior.
+keywords:
+  - finite-element-method
+  - computational-mechanics
+  - structural-analysis
+  - bridge-engineering
+  - hyperelastic-materials
+  - contact-mechanics
+  - arch-structures
+  - fenics
+  - dolfinx
+  - nonlinear-analysis
+  - masonry-bridges
+license: GPL-3.0-or-later
+repository-code: "https://github.com/nanosystemslab/BRIDGE_Connection"
+url: "https://github.com/nanosystemslab/BRIDGE_Connection"
+doi: ""  # Add DOI when available
+references:
+  - type: software
+    title: "FEniCSx"
+    authors:
+      - name: "FEniCS Project"
+    url: "https://fenicsproject.org/"
+    version: "0.7.2"
